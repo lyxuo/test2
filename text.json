@@ -1,0 +1,264 @@
+{
+   "Weapons": [
+  {
+   "ID": "81",
+   "Name": "XM4",
+  },
+  {
+   "ID": "9",
+   "Name": "AK47",
+  },
+  {
+   "ID": "20",
+   "Name": "Krig",
+  },
+  {
+   "ID": "77",
+   "Name": "QBZ",
+  },
+  {
+   "ID": "48",
+   "Name": "FFAR",
+  },
+  {
+   "ID": "76",
+   "Name": "Groza",
+  },
+  {
+   "ID": "51",
+   "Name": "Fara",
+  },
+  {
+   "ID": "56",
+   "Name": "C58",
+  },
+  {
+   "ID": "70",
+   "Name": "EM2",
+  },
+  {
+   "ID": "61",
+   "Name": "MP5",
+  },
+  {
+   "ID": "21",
+   "Name": "Vargo",
+  },
+  {
+   "ID": "84",
+   "Name": "Tec9",
+  },
+  {
+   "ID": "64",
+   "Name": "LC10",
+  },
+  {
+   "ID": "83",
+   "Name": "Lapa",
+  },
+  {
+   "ID": "88",
+   "Name": "Milano",
+  },
+  {
+   "ID": "65",
+   "Name": "AK74u",
+  },
+  {
+   "ID": "31",
+   "Name": "KSP45",
+  },
+  {
+   "ID": "25",
+   "Name": "Bullfrog",
+  },
+  {
+   "ID": "67",
+   "Name": "Mac10",
+  },
+  {
+   "ID": "74",
+   "Name": "PPSH",
+  },
+  {
+   "ID": "91",
+   "Name": "UGR",
+  },
+  {
+   "ID": "22",
+   "Name": "OTs9",
+  },
+  {
+   "ID": "54",
+   "Name": "Type 63",
+  },
+  {
+   "ID": "70",
+   "Name": "EM2",
+  },
+  {
+   "ID": "58",
+   "Name": "M16",
+  },
+  {
+   "ID": "57",
+   "Name": "AUG",
+  },
+  {
+   "ID": "53",
+   "Name": "DMR14",
+  },
+  {
+   "ID": "4",
+   "Name": "CARV.2",
+  },
+  {
+   "ID": "6",
+   "Name": "Stoner63",
+  },
+  {
+   "ID": "68",
+   "Name": "RPD",
+  },
+  {
+   "ID": "93",
+   "Name": "M60",
+  },
+  {
+   "ID": "80",
+   "Name": "MG82",
+  },
+  {
+   "ID": "50",
+   "Name": "Pelington703",
+  },
+  {
+   "ID": "72",
+   "Name": "Tundra",
+  },
+  {
+   "ID": "8",
+   "Name": "M82",
+  },
+  {
+   "ID": "78",
+   "Name": "ZRG20mm",
+  },
+  {
+   "ID": "47",
+   "Name": "SwissK31",
+  },
+  {
+   "ID": "27",
+   "Name": "Marshall",
+  },
+  {
+   "ID": "28",
+   "Name": "1911",
+  },
+  {
+   "ID": "33",
+   "Name": "Magnum",
+  },
+  {
+   "ID": "46",
+   "Name": "Diamatti",
+  },
+  {
+   "ID": "16",
+   "Name": "AMP63",
+  },
+  {
+   "ID": "55",
+   "Name": "Hauer77",
+  },
+  {
+   "ID": "90",
+   "Name": "Striker",
+  },
+  {
+   "ID": "79",
+   "Name": "GalloSA12",
+  },
+  {
+   "ID": "38",
+   "Name": "Cigma2",
+  },
+  {
+   "ID": "19",
+   "Name": "RPG-7",
+  },
+  {
+   "ID": "17",
+   "Name": "M79",
+  },
+  {
+   "ID": "10",
+   "Name": ".410 IronHide",
+  },
+  {
+   "ID": "63",
+   "Name": "NailGun",
+  },
+  {
+   "ID": "14",
+   "Name": "Crossbow",
+  },
+  {
+   "ID": "23",
+   "Name": "Knife",
+  },
+  {
+   "ID": "69",
+   "Name": "Scythe",
+  },
+  {
+   "ID": "45",
+   "Name": "Sledgehammer",
+  },
+  {
+   "ID": "7",
+   "Name": "E-Tool",
+  },
+  {
+   "ID": "18",
+   "Name": "Machete",
+  },
+  {
+   "ID": "26",
+   "Name": "BaseballBat",
+  },
+  {
+   "ID": "29",
+   "Name": "Mace",
+  },
+  {
+   "ID": "73",
+   "Name": "Cane",
+  },
+  {
+   "ID": "39",
+   "Name": "Sai",
+  },
+  {
+   "ID": "71",
+   "Name": "BattleAxe",
+  },
+  {
+   "ID": "49",
+   "Name": "Wakazashi",
+  },
+  {
+   "ID": "36",
+   "Name": "Sickle",
+  },
+  {
+   "ID": "42",
+   "Name": "BallisticKnife",
+  },
+  {
+   "ID": "5",
+   "Name": "Grav",
+  }
+ ]
+}
